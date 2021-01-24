@@ -1,0 +1,12 @@
+﻿  Bank.cpp
+C:\Users\ZpmPower\Desktop\bankomat\bankomat\Bank.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ZpmPower\Desktop\bankomat\bankomat\Bank.cpp(66,62): warning C4129: 's': unrecognized character escape sequence
+  Bankomat.cpp
+C:\Users\ZpmPower\Desktop\bankomat\bankomat\Bankomat.cpp(118,29): warning C4018: '>': signed/unsigned mismatch
+  Gra.cpp
+C:\Users\ZpmPower\Desktop\bankomat\bankomat\Gra.cpp(100,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ZpmPower\Desktop\bankomat\bankomat\Gra.cpp(105,47): warning C4018: '>': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+C:\Users\ZpmPower\Desktop\bankomat\bankomat\Gra.cpp(53): warning C4715: 'Gra::execute': not all control paths return a value
+  bankomat.vcxproj -> C:\Users\ZpmPower\Desktop\bankomat\Debug\bankomat.exe
